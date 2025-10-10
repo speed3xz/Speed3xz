@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/speed3xz/Storage/main/Arlette-Bot/b859e5b0780d3eb3f3349f69ab524bcc.jpg" alt="Arlette" width="900"/>
 </p>
   
-<a href="Instagram.com/AngxlKing7"/>
+<a href="Instagram.com/speed3xz"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 <a href="https://wa.link/a25spu" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
