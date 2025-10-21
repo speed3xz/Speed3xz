@@ -3,7 +3,7 @@
 ## hola 👋 Bienvenido, te presento mi perfil ✨
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/speed3xz/Storage/main/Arlette-Bot/b859e5b0780d3eb3f3349f69ab524bcc.jpg" alt="Arlette" width="900"/>
+<img src="speed3xz.bot.nu/Arlette/img/kuromi.png" alt="Arlette" width="900"/>
 </p>
   
 <a href="Instagram.com/speed3xz"/>
