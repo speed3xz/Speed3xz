@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/Speed3xz/">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Speed3xz&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FFFFFF&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="AngxlKing7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Speed3xz&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FFFFFF&icon_color=FF0000&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="speed3xz"/>
 <br><br>
 </a>
 
